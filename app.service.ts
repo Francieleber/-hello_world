@@ -9,7 +9,7 @@ export class AppService {
     return 'Hello World';
   }
   BSM():string{
-    return 'Responsabilidade pessoal<br>orientaçao ao futuro<br>trabalho em euipe<br>comunicaçao<br>persistencia<br>proatividade<br>atençao aos detalhes <br>mentalidade de crescimento';
+    return 'Responsabilidade pessoal<br>orientaçao ao futuro<br>trabalho em equipe<br>comunicaçao<br>persistencia<br>proatividade<br>atençao aos detalhes <br>mentalidade de crescimento';
   }
 Objetivos():string{
   return'NestJs';
